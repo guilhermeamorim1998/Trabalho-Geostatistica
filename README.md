@@ -1,6 +1,5 @@
 # Trabalho-Geostatistica
 
-# Análise de dados - Messias
 
 Banco de dados referente à produção da cana-de-açúcar, anos de 2016 e
 atributos do solo.
